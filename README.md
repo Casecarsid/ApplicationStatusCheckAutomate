@@ -10,9 +10,14 @@
 6. University of California Santa Cruz
 7. University of Colorado Boulder
 
-Replace enter_your_username_here with your university application username
-Replace enter_your_email_id_here with your university application email id
-Replace enter_your_password_here with your university application password
+Replace "enter_your_username_here" with your university application username
+
+Replace "enter_your_email_id_here" with your university application email id
+
+Replace "enter_your_password_here" with your university application password
+
+Reference:
 
 chromedriver download link : http://chromedriver.chromium.org/downloads
+
 selenium with python : https://selenium-python.readthedocs.io/
